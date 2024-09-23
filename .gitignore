@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Database
+*.sqlite3
+*.db
+
+# Django Stuff
+/static/
+media/
+.DS_Store
+
+# Secret files
+*.env
+*.key
+*.pem
